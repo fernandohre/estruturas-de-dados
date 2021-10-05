@@ -1,3 +1,6 @@
+*.suo
+*.user
+packages
 EstruturaDeDados/bin
 EstruturaDeDados/obj
 EstruturaDeDados.Dominio/bin
