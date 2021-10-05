@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "EstruturaDeDados/1.0.0": {
+        "dependencies": {
+          "EstruturaDeDados.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "EstruturaDeDados.dll": {}
+        }
+      },
+      "EstruturaDeDados.Dominio/1.0.0": {
+        "runtime": {
+          "EstruturaDeDados.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EstruturaDeDados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EstruturaDeDados.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
