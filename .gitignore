@@ -1,2 +1,5 @@
-EstruturaDeDados\bin
-EstruturaDeDados\obj
+EstruturaDeDados/bin
+EstruturaDeDados/obj
+EstruturaDeDados.Dominio/bin
+EstruturaDeDados.Dominio/obj
+.vs/
